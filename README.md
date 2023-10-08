@@ -1,4 +1,4 @@
-### Olá! Eu sou o Victor Galvão 👤
+### Olá! Eu sou o Victor Galvão! 👤
 ![Galvas GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGalvaoMercante&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia a dia 
