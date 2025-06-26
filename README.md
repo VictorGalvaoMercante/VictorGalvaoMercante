@@ -12,6 +12,9 @@ Me chamo Victor Galvão, tenho 20 anos e sou natural de São Paulo. Atualmente, 
 ## 🧠 Tecnologias e Habilidades
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<img title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img title=".NET" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+
   <img title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
