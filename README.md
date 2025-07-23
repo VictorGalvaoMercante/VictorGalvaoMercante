@@ -34,7 +34,7 @@ Me chamo Victor Galvão, tenho 20 anos e sou natural de São Paulo. Atualmente, 
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGalvaoMercante&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGalvaoMercante&show_icons=true&include_all_commits=true)
 
 <img 
       align="left" 
